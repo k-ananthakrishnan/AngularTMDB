@@ -1,6 +1,7 @@
 # AngularTmdb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
+Angular web app with The Movie Data Base Api
 
 ## Development server
 
